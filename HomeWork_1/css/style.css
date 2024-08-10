@@ -1,0 +1,41 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.2rem;
+  background-color:black;
+}
+header, footer{
+  background-color:rgb(16, 106, 8);
+}
+header a{
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+header a:link, a:visited{
+  color:rgb(236, 255, 216);
+}
+nav{
+  background-color:rgb(2, 49, 14);
+}
+main{
+  background-color: rgb(236, 255, 216);
+  font-size: 1.5rem;
+}
+li{
+  display: inline-block;
+  width: 33%;
+  list-style-type: none;
+}
+h1{
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:rgb(236, 255, 216);
+}
+p{
+  line-height: 1.5em;
+}
+footer{
+  color:rgb(246, 213, 213)
+}
+footer a:link, a:visited{
+  color:rgb(236, 255, 216);
+}
